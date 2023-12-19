@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-bg-status{
+    background-color: #BEE8BF;;
+}
+.custom-bg-status-ofs{
+    background-color: #EBBBBA;
+}
+#root nav:first-child{
+    box-shadow: -1px 5px 5px #999;
+}
